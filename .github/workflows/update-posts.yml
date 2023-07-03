@@ -8,6 +8,8 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
@@ -15,3 +17,4 @@ jobs:
           readme-section: feed
           max: 10
           template: "* [{{ title }}]({{ link }})\n"
+          empty-commits: false
