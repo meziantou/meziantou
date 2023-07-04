@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [How to cancel GitHub workflows when pushing new commits on a branch](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-cancel-github-workflows-when-pushing-new-commits-on-a-branch.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Tracking click on anchors in an HTML page](https:&#x2F;&#x2F;www.meziantou.net&#x2F;tracking-click-on-anchors-in-an-html-page.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to use RuntimeHelpers.IsReferenceOrContainsReferences to micro-optimize collections](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-use-runtimehelpers-isreferenceorcontainsreferences-to-micro-optimize-coll.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Disabling HSTS for localhost on Chromium-based browsers](https:&#x2F;&#x2F;www.meziantou.net&#x2F;disabling-hsts-for-localhost-on-chromium-based-browsers.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Retrying a bash command](https:&#x2F;&#x2F;www.meziantou.net&#x2F;retry-a-bash-command.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Detecting Dark and Light themes in a WPF application](https:&#x2F;&#x2F;www.meziantou.net&#x2F;detecting-dark-and-light-themes-in-a-wpf-application.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Investigating a crash in Enumerable.LastOrDefault with a custom collection](https:&#x2F;&#x2F;www.meziantou.net&#x2F;investigating-a-crash-in-enumerable-lastordefault.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Listing all available ETW events in a .NET application](https:&#x2F;&#x2F;www.meziantou.net&#x2F;listing-all-available-etw-events-in-a-dotnet-application.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
