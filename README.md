@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Micro-optimization: Concatenating a string with a char using string.Concat](https:&#x2F;&#x2F;www.meziantou.net&#x2F;micro-optimization-concatenating-a-string-with-a-char-using-string-concat.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Keeping your software up to date using winget and PowerShell](https:&#x2F;&#x2F;www.meziantou.net&#x2F;keeping-your-software-up-to-date-using-winget-and-powershell.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to cancel GitHub workflows when pushing new commits on a branch](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-cancel-github-workflows-when-pushing-new-commits-on-a-branch.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Tracking click on anchors in an HTML page](https:&#x2F;&#x2F;www.meziantou.net&#x2F;tracking-click-on-anchors-in-an-html-page.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [How to Control Visual Studio from an external application](https:&#x2F;&#x2F;www.meziantou.net&#x2F;control-visual-studio-from-an-external-application.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Reading Windows Application Manifest of an exe in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;reading-windows-application-manifest-of-an-exe-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Retrying a bash command](https:&#x2F;&#x2F;www.meziantou.net&#x2F;retry-a-bash-command.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Detecting Dark and Light themes in a WPF application](https:&#x2F;&#x2F;www.meziantou.net&#x2F;detecting-dark-and-light-themes-in-a-wpf-application.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
