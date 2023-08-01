@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Polyfills in .NET to ease multi-targeting](https:&#x2F;&#x2F;www.meziantou.net&#x2F;polyfills-in-dotnet-to-ease-multi-targeting.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Analyzer to validate the parameters of structured log messages](https:&#x2F;&#x2F;www.meziantou.net&#x2F;roslyn-analyzer-to-check-the-types-of-structured-log-messages.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Micro-optimization: Concatenating a string with a char using string.Concat](https:&#x2F;&#x2F;www.meziantou.net&#x2F;micro-optimization-concatenating-a-string-with-a-char-using-string-concat.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Keeping your software up to date using winget and PowerShell](https:&#x2F;&#x2F;www.meziantou.net&#x2F;keeping-your-software-up-to-date-using-winget-and-powershell.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Disabling HSTS for localhost on Chromium-based browsers](https:&#x2F;&#x2F;www.meziantou.net&#x2F;disabling-hsts-for-localhost-on-chromium-based-browsers.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to detect Globalization-Invariant mode in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;detect-globalization-invariant-mode-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to Control Visual Studio from an external application](https:&#x2F;&#x2F;www.meziantou.net&#x2F;control-visual-studio-from-an-external-application.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Reading Windows Application Manifest of an exe in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;reading-windows-application-manifest-of-an-exe-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
