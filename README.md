@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Supporting custom protocols in WebView2](https:&#x2F;&#x2F;www.meziantou.net&#x2F;supporting-custom-protocols-in-webview2.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Sharing object between .NET host and WebView2](https:&#x2F;&#x2F;www.meziantou.net&#x2F;sharing-object-between-dotnet-host-and-webview2.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Polyfills in .NET to ease multi-targeting](https:&#x2F;&#x2F;www.meziantou.net&#x2F;polyfills-in-dotnet-to-ease-multi-targeting.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Analyzer to validate the parameters of structured log messages](https:&#x2F;&#x2F;www.meziantou.net&#x2F;roslyn-analyzer-to-check-the-types-of-structured-log-messages.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Tracking click on anchors in an HTML page](https:&#x2F;&#x2F;www.meziantou.net&#x2F;tracking-click-on-anchors-in-an-html-page.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to use RuntimeHelpers.IsReferenceOrContainsReferences to micro-optimize collections](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-use-runtimehelpers-isreferenceorcontainsreferences-to-micro-optimize-coll.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Disabling HSTS for localhost on Chromium-based browsers](https:&#x2F;&#x2F;www.meziantou.net&#x2F;disabling-hsts-for-localhost-on-chromium-based-browsers.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [How to detect Globalization-Invariant mode in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;detect-globalization-invariant-mode-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
