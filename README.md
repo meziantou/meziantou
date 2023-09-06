@@ -13,7 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
-* [Convert YAML to JSON with PowerShell Core](https:&#x2F;&#x2F;www.meziantou.net&#x2F;convert-yaml-to-json-with-powershell-core.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
+* [How to convert YAML to JSON with PowerShell Core](https:&#x2F;&#x2F;www.meziantou.net&#x2F;convert-yaml-to-json-with-powershell-core.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Supporting custom protocols in WebView2](https:&#x2F;&#x2F;www.meziantou.net&#x2F;supporting-custom-protocols-in-webview2.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Sharing object between .NET host and WebView2](https:&#x2F;&#x2F;www.meziantou.net&#x2F;sharing-object-between-dotnet-host-and-webview2.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Polyfills in .NET to ease multi-targeting](https:&#x2F;&#x2F;www.meziantou.net&#x2F;polyfills-in-dotnet-to-ease-multi-targeting.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
