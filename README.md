@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Listing Windows virtual desktops using .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;listing-windows-virtual-desktops-using-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to convert YAML to JSON with PowerShell Core](https:&#x2F;&#x2F;www.meziantou.net&#x2F;convert-yaml-to-json-with-powershell-core.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Supporting custom protocols in WebView2](https:&#x2F;&#x2F;www.meziantou.net&#x2F;supporting-custom-protocols-in-webview2.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Sharing object between .NET host and WebView2](https:&#x2F;&#x2F;www.meziantou.net&#x2F;sharing-object-between-dotnet-host-and-webview2.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Keeping your software up to date using winget and PowerShell](https:&#x2F;&#x2F;www.meziantou.net&#x2F;keeping-your-software-up-to-date-using-winget-and-powershell.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to cancel GitHub workflows when pushing new commits on a branch](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-cancel-github-workflows-when-pushing-new-commits-on-a-branch.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Tracking click on anchors in an HTML page](https:&#x2F;&#x2F;www.meziantou.net&#x2F;tracking-click-on-anchors-in-an-html-page.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [How to use RuntimeHelpers.IsReferenceOrContainsReferences to micro-optimize collections](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-use-runtimehelpers-isreferenceorcontainsreferences-to-micro-optimize-coll.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
