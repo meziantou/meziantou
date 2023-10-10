@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Get the default value of a type at runtime](https:&#x2F;&#x2F;www.meziantou.net&#x2F;get-the-default-value-of-a-type-at-runtime.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to test the logs from ILogger in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-test-the-logs-from-ilogger-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to write logs from ILogger to xUnit.net ITestOutputHelper](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-view-logs-from-ilogger-in-xunitdotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Accessing private members without reflection in C#](https:&#x2F;&#x2F;www.meziantou.net&#x2F;accessing-private-members-without-reflection-in-csharp.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Sharing object between .NET host and WebView2](https:&#x2F;&#x2F;www.meziantou.net&#x2F;sharing-object-between-dotnet-host-and-webview2.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Polyfills in .NET to ease multi-targeting](https:&#x2F;&#x2F;www.meziantou.net&#x2F;polyfills-in-dotnet-to-ease-multi-targeting.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Analyzer to validate the parameters of structured log messages](https:&#x2F;&#x2F;www.meziantou.net&#x2F;roslyn-analyzer-to-check-the-types-of-structured-log-messages.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Micro-optimization: Concatenating a string with a char using string.Concat](https:&#x2F;&#x2F;www.meziantou.net&#x2F;micro-optimization-concatenating-a-string-with-a-char-using-string-concat.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
