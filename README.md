@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Reading a stream of JsonDocuments separated by new lines (ndjson)](https:&#x2F;&#x2F;www.meziantou.net&#x2F;reading-a-stream-of-jsondocuments-separated-by-new-lines-ndjson.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Customizing the behavior of record copy constructors](https:&#x2F;&#x2F;www.meziantou.net&#x2F;customizing-the-behavior-of-the-record-copy-constructor.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Customizing the name of embedded resources in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;customizing-the-embedded-resource-name-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Get the default value of a type at runtime](https:&#x2F;&#x2F;www.meziantou.net&#x2F;get-the-default-value-of-a-type-at-runtime.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Listing Windows virtual desktops using .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;listing-windows-virtual-desktops-using-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to convert YAML to JSON with PowerShell Core](https:&#x2F;&#x2F;www.meziantou.net&#x2F;convert-yaml-to-json-with-powershell-core.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Supporting custom protocols in WebView2](https:&#x2F;&#x2F;www.meziantou.net&#x2F;supporting-custom-protocols-in-webview2.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Sharing object between .NET host and WebView2](https:&#x2F;&#x2F;www.meziantou.net&#x2F;sharing-object-between-dotnet-host-and-webview2.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
