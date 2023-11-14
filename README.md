@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Removing allocations by reducing closure scopes using local variables](https:&#x2F;&#x2F;www.meziantou.net&#x2F;reducing-allocations-using-local-variables-to-scope-closures.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Reading a stream of JsonDocuments separated by new lines (ndjson)](https:&#x2F;&#x2F;www.meziantou.net&#x2F;reading-a-stream-of-jsondocuments-separated-by-new-lines-ndjson.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Customizing the behavior of record copy constructors](https:&#x2F;&#x2F;www.meziantou.net&#x2F;customizing-the-behavior-of-the-record-copy-constructor.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Customizing the name of embedded resources in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;customizing-the-embedded-resource-name-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Accessing private members without reflection in C#](https:&#x2F;&#x2F;www.meziantou.net&#x2F;accessing-private-members-without-reflection-in-csharp.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Listing Windows virtual desktops using .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;listing-windows-virtual-desktops-using-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to convert YAML to JSON with PowerShell Core](https:&#x2F;&#x2F;www.meziantou.net&#x2F;convert-yaml-to-json-with-powershell-core.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Supporting custom protocols in WebView2](https:&#x2F;&#x2F;www.meziantou.net&#x2F;supporting-custom-protocols-in-webview2.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
