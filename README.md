@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Inline Snapshot testing in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;inline-snapshot-testing-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to monitor changes on a website](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-monitor-changes-on-a-website.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Embedding additional files in an MSBuild binary log file](https:&#x2F;&#x2F;www.meziantou.net&#x2F;embedding-additional-files-in-an-msbuild-binary-log-file.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Removing allocations by reducing closure scopes using local variables](https:&#x2F;&#x2F;www.meziantou.net&#x2F;reducing-allocations-using-local-variables-to-scope-closures.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Get the default value of a type at runtime](https:&#x2F;&#x2F;www.meziantou.net&#x2F;get-the-default-value-of-a-type-at-runtime.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to test the logs from ILogger in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-test-the-logs-from-ilogger-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to write logs from ILogger to xUnit.net ITestOutputHelper](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-view-logs-from-ilogger-in-xunitdotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Accessing private members without reflection in C#](https:&#x2F;&#x2F;www.meziantou.net&#x2F;accessing-private-members-without-reflection-in-csharp.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 #### 💹 Stats
