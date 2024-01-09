@@ -12,6 +12,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Making primary constructor parameters read-only](https:&#x2F;&#x2F;www.meziantou.net&#x2F;making-primary-constructor-parameters-read-only.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Weak events in C#](https:&#x2F;&#x2F;www.meziantou.net&#x2F;weak-events-in-csharp.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Removing history versions of a file on OneDrive for Business](https:&#x2F;&#x2F;www.meziantou.net&#x2F;removing-history-versions-of-a-file-on-onedrive-for-business.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Inline Snapshot testing in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;inline-snapshot-testing-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -21,7 +22,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Reading a stream of JsonDocuments separated by new lines (ndjson)](https:&#x2F;&#x2F;www.meziantou.net&#x2F;reading-a-stream-of-jsondocuments-separated-by-new-lines-ndjson.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Customizing the behavior of record copy constructors](https:&#x2F;&#x2F;www.meziantou.net&#x2F;customizing-the-behavior-of-the-record-copy-constructor.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Customizing the name of embedded resources in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;customizing-the-embedded-resource-name-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Get the default value of a type at runtime](https:&#x2F;&#x2F;www.meziantou.net&#x2F;get-the-default-value-of-a-type-at-runtime.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
