@@ -12,6 +12,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Optional parameters may appear in the middle of the parameter list](https:&#x2F;&#x2F;www.meziantou.net&#x2F;optional-parameters.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Getting all exceptions thrown from Parallel.ForEachAsync](https:&#x2F;&#x2F;www.meziantou.net&#x2F;getting-all-exceptions-thrown-from-parallel-foreachasync.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Creating an HttpClient that uses DNS over Https](https:&#x2F;&#x2F;www.meziantou.net&#x2F;creating-an-httpclient-that-uses-dns-over-https.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Enable the new TerminalLogger in .NET 8 SDK automatically](https:&#x2F;&#x2F;www.meziantou.net&#x2F;enable-the-new-terminallogger-in-dotnet-8-sdk-automatically.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -21,7 +22,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Making primary constructor parameters read-only](https:&#x2F;&#x2F;www.meziantou.net&#x2F;making-primary-constructor-parameters-read-only.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Weak events in C#](https:&#x2F;&#x2F;www.meziantou.net&#x2F;weak-events-in-csharp.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Removing history versions of a file on OneDrive for Business](https:&#x2F;&#x2F;www.meziantou.net&#x2F;removing-history-versions-of-a-file-on-onedrive-for-business.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Inline Snapshot testing in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;inline-snapshot-testing-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
