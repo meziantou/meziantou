@@ -12,6 +12,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Roslyn analyzers: How to](https:&#x2F;&#x2F;www.meziantou.net&#x2F;roslyn-analyzers-how-to.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to avoid conflicts when testing your dotnet templates locally](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-avoid-conflicts-when-testing-your-dotnet-templates-locally.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to check if a DLL  and an exe is a .NET assembly](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-check-if-a-dll-and-an-exe-is-a-dotnet-assembly.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Using type aliases to make code clearer with generics](https:&#x2F;&#x2F;www.meziantou.net&#x2F;using-type-aliases-to-make-code-clearer-with-generics.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -21,7 +22,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Convert DateTime to user&#39;s time zone with Blazor in .NET 8](https:&#x2F;&#x2F;www.meziantou.net&#x2F;convert-datetime-to-user-s-time-zone-with-server-side-blazor-time-provider.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Generate OpenAPI specification at build time from the code in ASP.NET Core](https:&#x2F;&#x2F;www.meziantou.net&#x2F;generate-openapi-specification-at-build-time-from-the-code-in-asp-net-core.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Set a blank page for new tabs in Microsoft Edge](https:&#x2F;&#x2F;www.meziantou.net&#x2F;set-a-blank-page-for-new-tabs-in-microsoft-edge.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Optional parameters may appear in the middle of the parameter list](https:&#x2F;&#x2F;www.meziantou.net&#x2F;optional-parameters.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
