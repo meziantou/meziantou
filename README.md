@@ -12,6 +12,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [How to output a SARIF file from a .NET project](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-output-a-sarif-file-from-a-dotnet-project.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Sharing the Renovate configuration across multiple projects](https:&#x2F;&#x2F;www.meziantou.net&#x2F;sharing-the-renovate-configuration-across-multiple-projects.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Create a multi-arch Docker image for a .NET application](https:&#x2F;&#x2F;www.meziantou.net&#x2F;create-a-multi-arch-docker-image-for-a-dotnet-application.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to test a Roslyn analyzer](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-test-a-roslyn-analyzer.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -21,7 +22,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Using type aliases to make code clearer with generics](https:&#x2F;&#x2F;www.meziantou.net&#x2F;using-type-aliases-to-make-code-clearer-with-generics.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Computing code coverage for a .NET project](https:&#x2F;&#x2F;www.meziantou.net&#x2F;computing-code-coverage-for-a-dotnet-project.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Creating ico files from multiple images in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;creating-ico-files-from-multiple-images-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Json schema validation in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;json-schema-validation-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
