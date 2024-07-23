@@ -12,6 +12,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Stop a script when an error occurs in PowerShell](https:&#x2F;&#x2F;www.meziantou.net&#x2F;stop-the-script-when-an-error-occurs-in-powershell.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Enable NuGet auditing for your .NET projects](https:&#x2F;&#x2F;www.meziantou.net&#x2F;enable-nuget-auditing-for-your-dotnet-projects.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to output a SARIF file from a .NET project](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-output-a-sarif-file-from-a-dotnet-project.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Sharing the Renovate configuration across multiple projects](https:&#x2F;&#x2F;www.meziantou.net&#x2F;sharing-the-renovate-configuration-across-multiple-projects.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -21,7 +22,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [How to avoid conflicts when testing your dotnet templates locally](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-avoid-conflicts-when-testing-your-dotnet-templates-locally.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to check if a DLL  and an exe is a .NET assembly](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-check-if-a-dll-and-an-exe-is-a-dotnet-assembly.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Using type aliases to make code clearer with generics](https:&#x2F;&#x2F;www.meziantou.net&#x2F;using-type-aliases-to-make-code-clearer-with-generics.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Computing code coverage for a .NET project](https:&#x2F;&#x2F;www.meziantou.net&#x2F;computing-code-coverage-for-a-dotnet-project.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
