@@ -12,6 +12,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Waiting for a ManualResetEventSlim to be set asynchronously](https:&#x2F;&#x2F;www.meziantou.net&#x2F;waiting-for-a-manualreseteventslim-to-be-set-asynchronously.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Automated tests](https:&#x2F;&#x2F;www.meziantou.net&#x2F;automated-tests.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Stop a script when an error occurs in PowerShell](https:&#x2F;&#x2F;www.meziantou.net&#x2F;stop-the-script-when-an-error-occurs-in-powershell.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Enable NuGet auditing for your .NET projects](https:&#x2F;&#x2F;www.meziantou.net&#x2F;enable-nuget-auditing-for-your-dotnet-projects.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -21,7 +22,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [How to test a Roslyn analyzer](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-test-a-roslyn-analyzer.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Roslyn analyzers: How to](https:&#x2F;&#x2F;www.meziantou.net&#x2F;roslyn-analyzers-how-to.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to avoid conflicts when testing your dotnet templates locally](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-avoid-conflicts-when-testing-your-dotnet-templates-locally.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [How to check if a DLL  and an exe is a .NET assembly](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-check-if-a-dll-and-an-exe-is-a-dotnet-assembly.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
