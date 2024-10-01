@@ -12,6 +12,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Disabling HSTS for localhost using a browser extension](https:&#x2F;&#x2F;www.meziantou.net&#x2F;avoid-hsts-issues-on-localhost.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Using Mutex&lt;T&gt; to synchronize access to a shared resource](https:&#x2F;&#x2F;www.meziantou.net&#x2F;using-mutex-t-to-synchronize-access-to-a-shared-resource.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Waiting for a ManualResetEventSlim to be set asynchronously](https:&#x2F;&#x2F;www.meziantou.net&#x2F;waiting-for-a-manualreseteventslim-to-be-set-asynchronously.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Automated tests](https:&#x2F;&#x2F;www.meziantou.net&#x2F;automated-tests.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -21,7 +22,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Sharing the Renovate configuration across multiple projects](https:&#x2F;&#x2F;www.meziantou.net&#x2F;sharing-the-renovate-configuration-across-multiple-projects.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Create a multi-arch Docker image for a .NET application](https:&#x2F;&#x2F;www.meziantou.net&#x2F;create-a-multi-arch-docker-image-for-a-dotnet-application.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to test a Roslyn analyzer](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-test-a-roslyn-analyzer.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Roslyn analyzers: How to](https:&#x2F;&#x2F;www.meziantou.net&#x2F;roslyn-analyzers-how-to.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
