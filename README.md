@@ -12,6 +12,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Embeded languages in string values supported by Roslyn](https:&#x2F;&#x2F;www.meziantou.net&#x2F;embeded-languages-in-string-values-supported-by-roslyn.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Stop using diagnostic verbosity in MSBuild](https:&#x2F;&#x2F;www.meziantou.net&#x2F;stop-using-diagnostic-verbosity-in-msbuild.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Understanding OverloadResolutionPriority attribute in C# 13](https:&#x2F;&#x2F;www.meziantou.net&#x2F;understanding-overloadresolutionpriority-attribute-in-csharp-13.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Disabling HSTS for localhost using a browser extension](https:&#x2F;&#x2F;www.meziantou.net&#x2F;avoid-hsts-issues-on-localhost.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -21,7 +22,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Stop a script when an error occurs in PowerShell](https:&#x2F;&#x2F;www.meziantou.net&#x2F;stop-the-script-when-an-error-occurs-in-powershell.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Enable NuGet auditing for your .NET projects](https:&#x2F;&#x2F;www.meziantou.net&#x2F;enable-nuget-auditing-for-your-dotnet-projects.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to output a SARIF file from a .NET project](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-output-a-sarif-file-from-a-dotnet-project.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Sharing the Renovate configuration across multiple projects](https:&#x2F;&#x2F;www.meziantou.net&#x2F;sharing-the-renovate-configuration-across-multiple-projects.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
