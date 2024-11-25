@@ -12,7 +12,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
-* [Embeded languages in string values supported by Roslyn](https:&#x2F;&#x2F;www.meziantou.net&#x2F;embeded-languages-in-string-values-supported-by-roslyn.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
+* [Supported Embedded Languages in String Values by Roslyn](https:&#x2F;&#x2F;www.meziantou.net&#x2F;embeded-languages-in-string-values-supported-by-roslyn.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Stop using diagnostic verbosity in MSBuild](https:&#x2F;&#x2F;www.meziantou.net&#x2F;stop-using-diagnostic-verbosity-in-msbuild.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Understanding OverloadResolutionPriority attribute in C# 13](https:&#x2F;&#x2F;www.meziantou.net&#x2F;understanding-overloadresolutionpriority-attribute-in-csharp-13.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Disabling HSTS for localhost using a browser extension](https:&#x2F;&#x2F;www.meziantou.net&#x2F;avoid-hsts-issues-on-localhost.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
