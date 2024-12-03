@@ -12,6 +12,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [NuGet Packages: security risks and best practices](https:&#x2F;&#x2F;www.meziantou.net&#x2F;nuget-packages-security-risks-and-best-practices.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Embedded Languages Supported by Roslyn](https:&#x2F;&#x2F;www.meziantou.net&#x2F;embeded-languages-in-string-values-supported-by-roslyn.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Stop using diagnostic verbosity in MSBuild](https:&#x2F;&#x2F;www.meziantou.net&#x2F;stop-using-diagnostic-verbosity-in-msbuild.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Understanding OverloadResolutionPriority attribute in C# 13](https:&#x2F;&#x2F;www.meziantou.net&#x2F;understanding-overloadresolutionpriority-attribute-in-csharp-13.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -21,7 +22,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Automated tests](https:&#x2F;&#x2F;www.meziantou.net&#x2F;automated-tests.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Stop a script when an error occurs in PowerShell](https:&#x2F;&#x2F;www.meziantou.net&#x2F;stop-the-script-when-an-error-occurs-in-powershell.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Enable NuGet auditing for your .NET projects](https:&#x2F;&#x2F;www.meziantou.net&#x2F;enable-nuget-auditing-for-your-dotnet-projects.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [How to output a SARIF file from a .NET project](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-output-a-sarif-file-from-a-dotnet-project.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
