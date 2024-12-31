@@ -12,6 +12,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Signing commits in Git using SSH keys on Windows](https:&#x2F;&#x2F;www.meziantou.net&#x2F;signing-commits-in-git-using-ssh-keys-on-windows.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Reading USN Journal with .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;reading-usn-journal-with-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Generating SBOM for NuGet packages](https:&#x2F;&#x2F;www.meziantou.net&#x2F;generating-sbom-for-nuget-packages.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Using the binary log to find the source of a .NET dependency](https:&#x2F;&#x2F;www.meziantou.net&#x2F;using-the-binary-log-to-find-the-source-of-a-dotnet-dependency.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -21,7 +22,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Understanding OverloadResolutionPriority attribute in C# 13](https:&#x2F;&#x2F;www.meziantou.net&#x2F;understanding-overloadresolutionpriority-attribute-in-csharp-13.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Disabling HSTS for localhost using a browser extension](https:&#x2F;&#x2F;www.meziantou.net&#x2F;avoid-hsts-issues-on-localhost.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Using Mutex&lt;T&gt; to synchronize access to a shared resource](https:&#x2F;&#x2F;www.meziantou.net&#x2F;using-mutex-t-to-synchronize-access-to-a-shared-resource.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Waiting for a ManualResetEventSlim to be set asynchronously](https:&#x2F;&#x2F;www.meziantou.net&#x2F;waiting-for-a-manualreseteventslim-to-be-set-asynchronously.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
