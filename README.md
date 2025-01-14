@@ -12,6 +12,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Enhance Your .NET HttpClient with HSTS Support](https:&#x2F;&#x2F;www.meziantou.net&#x2F;hsts-for-httpclient-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Exploring CollectionsMarshal for Dictionary](https:&#x2F;&#x2F;www.meziantou.net&#x2F;exploring-collectionsmarshal-for-dictionary.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Signing commits in Git using SSH keys on Windows](https:&#x2F;&#x2F;www.meziantou.net&#x2F;signing-commits-in-git-using-ssh-keys-on-windows.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Reading USN Journal with .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;reading-usn-journal-with-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -21,7 +22,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Embedded Languages Supported by Roslyn](https:&#x2F;&#x2F;www.meziantou.net&#x2F;embeded-languages-in-string-values-supported-by-roslyn.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Stop using diagnostic verbosity in MSBuild](https:&#x2F;&#x2F;www.meziantou.net&#x2F;stop-using-diagnostic-verbosity-in-msbuild.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Understanding OverloadResolutionPriority attribute in C# 13](https:&#x2F;&#x2F;www.meziantou.net&#x2F;understanding-overloadresolutionpriority-attribute-in-csharp-13.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Disabling HSTS for localhost using a browser extension](https:&#x2F;&#x2F;www.meziantou.net&#x2F;avoid-hsts-issues-on-localhost.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
