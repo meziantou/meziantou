@@ -6,8 +6,9 @@ I have a strong background in C#, .NET, and web development, as well as a deep u
 
 In addition to my professional work, I'm highly involved in the tech community. I'm a recognized Microsoft MVP for my contributions to the developer community, which include speaking at tech events, writing technical blog posts and contributing to open-source. I'm also a maintainer of various open-source projects, such as [Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer) or [Meziantou.Framework](https://github.com/meziantou/Meziantou.Framework). I'm passionate about sharing my knowledge and expertise with others through my blog, which can be found at <https://www.meziantou.net>.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meziantou/)](https://www.linkedin.com/in/meziantou/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/meziantou)](https://twitter.com/meziantou)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/meziantou/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/meziantou.net)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](https://hachyderm.io/@meziantou)
 
 #### 📗 Recent blog posts
 
