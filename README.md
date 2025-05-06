@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [StringComparison.InvariantCulture is not always invariant](https:&#x2F;&#x2F;www.meziantou.net&#x2F;stringcomparison-invariantculture-is-not-always-invariant.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Using Snapshot Testing to validate EF Core schema](https:&#x2F;&#x2F;www.meziantou.net&#x2F;using-snapshot-testing-to-validate-ef-core-schema.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Migrate from MSTest to xUnit using a Roslyn analyzer](https:&#x2F;&#x2F;www.meziantou.net&#x2F;migrate-from-mstest-to-xunit-using-a-roslyn-analyzer.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Using Roslyn to analyze and rewrite code in a solution](https:&#x2F;&#x2F;www.meziantou.net&#x2F;using-roslyn-to-analyze-and-rewrite-code-in-a-solution.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Reading USN Journal with .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;reading-usn-journal-with-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Generating SBOM for NuGet packages](https:&#x2F;&#x2F;www.meziantou.net&#x2F;generating-sbom-for-nuget-packages.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Using the binary log to find the source of a .NET dependency](https:&#x2F;&#x2F;www.meziantou.net&#x2F;using-the-binary-log-to-find-the-source-of-a-dotnet-dependency.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [NuGet Packages: security risks and best practices](https:&#x2F;&#x2F;www.meziantou.net&#x2F;nuget-packages-security-risks-and-best-practices.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
