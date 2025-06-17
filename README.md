@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Automatically Rerun Failed GitHub Actions Workflows](https:&#x2F;&#x2F;www.meziantou.net&#x2F;automatically-rerun-failed-github-actions-workflows.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Automating Null-Forgiving Operator Removal in C# Projects](https:&#x2F;&#x2F;www.meziantou.net&#x2F;automating-null-forgiving-operator-removal-in-csharp-projects.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Using Pattern Matching in C# for Performance Optimization](https:&#x2F;&#x2F;www.meziantou.net&#x2F;using-pattern-matching-in-csharp-for-performance-optimization.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Use C# 14 extensions to simplify enum Parsing](https:&#x2F;&#x2F;www.meziantou.net&#x2F;use-csharp-14-extensions-to-simplify-enum-parsing.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Using Roslyn to analyze and rewrite code in a solution](https:&#x2F;&#x2F;www.meziantou.net&#x2F;using-roslyn-to-analyze-and-rewrite-code-in-a-solution.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Enhance Your .NET HttpClient with HSTS Support](https:&#x2F;&#x2F;www.meziantou.net&#x2F;hsts-for-httpclient-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Exploring CollectionsMarshal for Dictionary](https:&#x2F;&#x2F;www.meziantou.net&#x2F;exploring-collectionsmarshal-for-dictionary.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Signing commits in Git using SSH keys on Windows](https:&#x2F;&#x2F;www.meziantou.net&#x2F;signing-commits-in-git-using-ssh-keys-on-windows.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
