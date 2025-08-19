@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Accessing Windows Known Folders in C# with SHGetKnownFolderPath](https:&#x2F;&#x2F;www.meziantou.net&#x2F;accessing-windows-known-folders-in-csharp-with-shgetknownfolderpath.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to Test Roslyn Source Generators](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-test-roslyn-source-generators.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to Find Public Symbols That Can Be Internal Using Roslyn](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-find-public-symbols-that-can-be-internal-using-roslyn.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to Exclude Your Windows App from Screen Capture and Recall](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-exclude-your-windows-app-from-screen-capture-and-recall.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Use C# 14 extensions to simplify enum Parsing](https:&#x2F;&#x2F;www.meziantou.net&#x2F;use-csharp-14-extensions-to-simplify-enum-parsing.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [StringComparison.InvariantCulture is not always invariant](https:&#x2F;&#x2F;www.meziantou.net&#x2F;stringcomparison-invariantculture-is-not-always-invariant.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Using Snapshot Testing to validate EF Core schema](https:&#x2F;&#x2F;www.meziantou.net&#x2F;using-snapshot-testing-to-validate-ef-core-schema.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Migrate from MSTest to xUnit using a Roslyn analyzer](https:&#x2F;&#x2F;www.meziantou.net&#x2F;migrate-from-mstest-to-xunit-using-a-roslyn-analyzer.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
