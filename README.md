@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Using Git insteadOf to Automatically Replace HTTPS URLs with SSH](https:&#x2F;&#x2F;www.meziantou.net&#x2F;using-git-insteadof-to-automatically-replace-https-urls-with-ssh.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Batch migrate .sln files to .slnx format across repositories](https:&#x2F;&#x2F;www.meziantou.net&#x2F;batch-migrate-sln-files-to-slnx-format-across-repositories.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Git Worktree: Managing Multiple Working Directories](https:&#x2F;&#x2F;www.meziantou.net&#x2F;git-worktree-managing-multiple-working-directories.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Accessing Windows Known Folders in C# with SHGetKnownFolderPath](https:&#x2F;&#x2F;www.meziantou.net&#x2F;accessing-windows-known-folders-in-csharp-with-shgetknownfolderpath.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Automatically Rerun Failed GitHub Actions Workflows](https:&#x2F;&#x2F;www.meziantou.net&#x2F;automatically-rerun-failed-github-actions-workflows.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Automating Null-Forgiving Operator Removal in C# Projects](https:&#x2F;&#x2F;www.meziantou.net&#x2F;automating-null-forgiving-operator-removal-in-csharp-projects.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Using Pattern Matching in C# for Performance Optimization](https:&#x2F;&#x2F;www.meziantou.net&#x2F;using-pattern-matching-in-csharp-for-performance-optimization.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Use C# 14 extensions to simplify enum Parsing](https:&#x2F;&#x2F;www.meziantou.net&#x2F;use-csharp-14-extensions-to-simplify-enum-parsing.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
