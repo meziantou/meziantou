@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Creating a custom MSBuild SDK to reduce boilerplate in .NET projects](https:&#x2F;&#x2F;www.meziantou.net&#x2F;creating-a-custom-msbuild-sdk-to-reduce-boilerplate-in-dotnet-projects.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Optimize GUID creation performance in .NET applications](https:&#x2F;&#x2F;www.meziantou.net&#x2F;optimize-guid-creation-performance-in-dotnet-applications.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [C# 14 Extension Members: Enhancing Polyfill Libraries](https:&#x2F;&#x2F;www.meziantou.net&#x2F;csharp-14-extension-members-enhancing-polyfill-libraries.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to Find an Available Network Port for a server in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-find-an-available-network-port-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Accessing Windows Known Folders in C# with SHGetKnownFolderPath](https:&#x2F;&#x2F;www.meziantou.net&#x2F;accessing-windows-known-folders-in-csharp-with-shgetknownfolderpath.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to Test Roslyn Source Generators](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-test-roslyn-source-generators.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to Find Public Symbols That Can Be Internal Using Roslyn](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-find-public-symbols-that-can-be-internal-using-roslyn.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [How to Exclude Your Windows App from Screen Capture and Recall](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-exclude-your-windows-app-from-screen-capture-and-recall.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
