@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Resolving Overload Ambiguity with Collection Expressions](https:&#x2F;&#x2F;www.meziantou.net&#x2F;resolving-overload-ambiguity-with-collection-expressions.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Creating a custom MSBuild SDK to reduce boilerplate in .NET projects](https:&#x2F;&#x2F;www.meziantou.net&#x2F;creating-a-custom-msbuild-sdk-to-reduce-boilerplate-in-dotnet-projects.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Optimize GUID creation performance in .NET applications](https:&#x2F;&#x2F;www.meziantou.net&#x2F;optimize-guid-creation-performance-in-dotnet-applications.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [C# 14 Extension Members: Enhancing Polyfill Libraries](https:&#x2F;&#x2F;www.meziantou.net&#x2F;csharp-14-extension-members-enhancing-polyfill-libraries.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Git Worktree: Managing Multiple Working Directories](https:&#x2F;&#x2F;www.meziantou.net&#x2F;git-worktree-managing-multiple-working-directories.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Accessing Windows Known Folders in C# with SHGetKnownFolderPath](https:&#x2F;&#x2F;www.meziantou.net&#x2F;accessing-windows-known-folders-in-csharp-with-shgetknownfolderpath.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to Test Roslyn Source Generators](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-test-roslyn-source-generators.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [How to Find Public Symbols That Can Be Internal Using Roslyn](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-find-public-symbols-that-can-be-internal-using-roslyn.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
