@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Gérald Barré ([@meziantou](https://twitter.com/meziantou)). I'm an experienced software developer with more than 10 years of experience in the industry. I currently work as a Software Engineer, where I'm part of a team that is responsible for developing and maintaining tools to help developers adopt InnerSource and increase code sharing in the company.
+My name is Gérald Barré ([@meziantou](https://hachyderm.io/@meziantou)). I'm an experienced software developer with more than 10 years of experience in the industry. I currently work as a Software Engineer, where I'm part of a team that is responsible for developing and maintaining tools to help developers adopt InnerSource and increase code sharing in the company.
 
 I have a strong background in C#, .NET, and web development, as well as a deep understanding of software architecture and design patterns. I'm also proficient in many other technologies, such as SQL Server, PowerShell, Docker, and Azure. I'm an expert at writing clean code that is easy to maintain and understand. I'm passionate about building high-quality software solutions and take pride in my work. I'm always eager to learn new technologies and love to experiment with different technologies to find the best solution for each problem.
 
@@ -26,7 +26,3 @@ In addition to my professional work, I'm highly involved in the tech community. 
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
-
-#### 💹 Stats
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=meziantou&show_icons=true&hide_border=true)
