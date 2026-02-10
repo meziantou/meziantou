@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Getting more information in MSBuild binlogs with property tracking](https:&#x2F;&#x2F;www.meziantou.net&#x2F;getting-more-information-in-msbuild-binlogs-with-property-tracking.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Retrieve method source file location at runtime using Portable PDBs in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;retrieve-method-source-file-location-at-runtime-using-portable-pdbs-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Reduce GitHub Actions runner CPU usage](https:&#x2F;&#x2F;www.meziantou.net&#x2F;reduce-github-actions-runner-cpu-usage.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Understanding and Managing Mark of the Web in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;understanding-and-managing-mark-of-the-web-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [C# 14 Extension Members: Enhancing Polyfill Libraries](https:&#x2F;&#x2F;www.meziantou.net&#x2F;csharp-14-extension-members-enhancing-polyfill-libraries.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [How to Find an Available Network Port for a server in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-find-an-available-network-port-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Using Git insteadOf to Automatically Replace HTTPS URLs with SSH](https:&#x2F;&#x2F;www.meziantou.net&#x2F;using-git-insteadof-to-automatically-replace-https-urls-with-ssh.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Batch migrate .sln files to .slnx format across repositories](https:&#x2F;&#x2F;www.meziantou.net&#x2F;batch-migrate-sln-files-to-slnx-format-across-repositories.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
