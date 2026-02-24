@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Reserved filenames on Windows (CON, PRN, AUX, NUL...)](https:&#x2F;&#x2F;www.meziantou.net&#x2F;reserved-filenames-on-windows-con-prn-aux-nul.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Validating PowerShell script syntax in GitHub Actions workflows](https:&#x2F;&#x2F;www.meziantou.net&#x2F;validating-powershell-script-syntax-in-github-actions-workflows.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Getting more information in MSBuild binlogs with property tracking](https:&#x2F;&#x2F;www.meziantou.net&#x2F;getting-more-information-in-msbuild-binlogs-with-property-tracking.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Retrieve method source file location at runtime using Portable PDBs in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;retrieve-method-source-file-location-at-runtime-using-portable-pdbs-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Creating a custom MSBuild SDK to reduce boilerplate in .NET projects](https:&#x2F;&#x2F;www.meziantou.net&#x2F;creating-a-custom-msbuild-sdk-to-reduce-boilerplate-in-dotnet-projects.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Optimize GUID creation performance in .NET applications](https:&#x2F;&#x2F;www.meziantou.net&#x2F;optimize-guid-creation-performance-in-dotnet-applications.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [C# 14 Extension Members: Enhancing Polyfill Libraries](https:&#x2F;&#x2F;www.meziantou.net&#x2F;csharp-14-extension-members-enhancing-polyfill-libraries.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [How to Find an Available Network Port for a server in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;how-to-find-an-available-network-port-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
