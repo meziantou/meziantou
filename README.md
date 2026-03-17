@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Implementing RFC-compliant HTTP caching for HttpClient in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;implementing-rfc-compliant-http-caching-for-httpclient-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Visualize GitHub Actions runs with Meziantou.GitHubActionsTracing](https:&#x2F;&#x2F;www.meziantou.net&#x2F;visualize-github-actions-runs-with-meziantou-githubactionstracing.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Creating case-sensitive folders on Windows using C#](https:&#x2F;&#x2F;www.meziantou.net&#x2F;creating-case-sensitive-folders-on-windows-using-csharp.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Reserved filenames on Windows (CON, PRN, AUX, NUL...)](https:&#x2F;&#x2F;www.meziantou.net&#x2F;reserved-filenames-on-windows-con-prn-aux-nul.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Reduce GitHub Actions runner CPU usage](https:&#x2F;&#x2F;www.meziantou.net&#x2F;reduce-github-actions-runner-cpu-usage.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Understanding and Managing Mark of the Web in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;understanding-and-managing-mark-of-the-web-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Resolving Overload Ambiguity with Collection Expressions](https:&#x2F;&#x2F;www.meziantou.net&#x2F;resolving-overload-ambiguity-with-collection-expressions.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Creating a custom MSBuild SDK to reduce boilerplate in .NET projects](https:&#x2F;&#x2F;www.meziantou.net&#x2F;creating-a-custom-msbuild-sdk-to-reduce-boilerplate-in-dotnet-projects.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
