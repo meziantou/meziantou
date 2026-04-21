@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Evaluating CRON and RRule expressions in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;evaluating-cron-and-rrule-expressions-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Suppressing Roslyn Analyzer Warnings Programmatically using DiagnosticSuppressor](https:&#x2F;&#x2F;www.meziantou.net&#x2F;suppressing-roslyn-analyzer-warnings-programmatically-using-diagnosticsuppressor.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Accessing files from the action repository in a GitHub Composite Action](https:&#x2F;&#x2F;www.meziantou.net&#x2F;accessing-files-from-the-action-repository-in-a-github-composite-action.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [URL Pattern Matching in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;url-pattern-matching-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Creating case-sensitive folders on Windows using C#](https:&#x2F;&#x2F;www.meziantou.net&#x2F;creating-case-sensitive-folders-on-windows-using-csharp.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Reserved filenames on Windows (CON, PRN, AUX, NUL...)](https:&#x2F;&#x2F;www.meziantou.net&#x2F;reserved-filenames-on-windows-con-prn-aux-nul.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Validating PowerShell script syntax in GitHub Actions workflows](https:&#x2F;&#x2F;www.meziantou.net&#x2F;validating-powershell-script-syntax-in-github-actions-workflows.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Getting more information in MSBuild binlogs with property tracking](https:&#x2F;&#x2F;www.meziantou.net&#x2F;getting-more-information-in-msbuild-binlogs-with-property-tracking.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
