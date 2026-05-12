@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Propagating OpenTelemetry context in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;propagating-opentelemetry-context-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Disable HTTP caching by default in ASP.NET Core APIs](https:&#x2F;&#x2F;www.meziantou.net&#x2F;disable-http-caching-by-default-in-asp-net-core-apis.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Evaluating CRON and RRule expressions in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;evaluating-cron-and-rrule-expressions-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Suppressing Roslyn Analyzer Warnings Programmatically using DiagnosticSuppressor](https:&#x2F;&#x2F;www.meziantou.net&#x2F;suppressing-roslyn-analyzer-warnings-programmatically-using-diagnosticsuppressor.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Implementing RFC-compliant HTTP caching for HttpClient in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;implementing-rfc-compliant-http-caching-for-httpclient-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Visualize GitHub Actions runs with Meziantou.GitHubActionsTracing](https:&#x2F;&#x2F;www.meziantou.net&#x2F;visualize-github-actions-runs-with-meziantou-githubactionstracing.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Creating case-sensitive folders on Windows using C#](https:&#x2F;&#x2F;www.meziantou.net&#x2F;creating-case-sensitive-folders-on-windows-using-csharp.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Reserved filenames on Windows (CON, PRN, AUX, NUL...)](https:&#x2F;&#x2F;www.meziantou.net&#x2F;reserved-filenames-on-windows-con-prn-aux-nul.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
