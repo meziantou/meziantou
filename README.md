@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [New features and Roslyn analyzers for Meziantou.Framework.FullPath](https:&#x2F;&#x2F;www.meziantou.net&#x2F;new-features-and-roslyn-analyzers-for-meziantou-framework-fullpath.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Blazor - How to set a base component for all Razor components](https:&#x2F;&#x2F;www.meziantou.net&#x2F;blazor-how-to-set-a-base-component-for-all-razor-components-using-viewstart-razo.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Propagating OpenTelemetry context in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;propagating-opentelemetry-context-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Disable HTTP caching by default in ASP.NET Core APIs](https:&#x2F;&#x2F;www.meziantou.net&#x2F;disable-http-caching-by-default-in-asp-net-core-apis.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [URL Pattern Matching in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;url-pattern-matching-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Speed Up .NET CI with Test Sharding](https:&#x2F;&#x2F;www.meziantou.net&#x2F;split-dotnet-test-projects-into-shards-with-meziantou-shardedtest.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Implementing RFC-compliant HTTP caching for HttpClient in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;implementing-rfc-compliant-http-caching-for-httpclient-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Visualize GitHub Actions runs with Meziantou.GitHubActionsTracing](https:&#x2F;&#x2F;www.meziantou.net&#x2F;visualize-github-actions-runs-with-meziantou-githubactionstracing.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
