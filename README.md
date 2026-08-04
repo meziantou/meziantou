@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Adding a Clone method to a C# record](https:&#x2F;&#x2F;www.meziantou.net&#x2F;adding-a-clone-method-to-a-csharp-record.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Get a Unicode character name from a Rune in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;get-a-unicode-character-name-from-a-rune-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Enable SHA Pinning for GitHub Actions Across Personal Repositories](https:&#x2F;&#x2F;www.meziantou.net&#x2F;enable-sha-pinning-for-github-actions-across-personal-repositories.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Generate a Kiota client at build time from an ASP.NET Core OpenAPI file](https:&#x2F;&#x2F;www.meziantou.net&#x2F;generate-a-kiota-client-at-build-time-from-an-asp-net-core-openapi-file.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Propagating OpenTelemetry context in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;propagating-opentelemetry-context-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Disable HTTP caching by default in ASP.NET Core APIs](https:&#x2F;&#x2F;www.meziantou.net&#x2F;disable-http-caching-by-default-in-asp-net-core-apis.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Evaluating CRON and RRule expressions in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;evaluating-cron-and-rrule-expressions-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Suppressing Roslyn Analyzer Warnings Programmatically using DiagnosticSuppressor](https:&#x2F;&#x2F;www.meziantou.net&#x2F;suppressing-roslyn-analyzer-warnings-programmatically-using-diagnosticsuppressor.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
