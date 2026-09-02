@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Generate and review the public API of a .NET library](https:&#x2F;&#x2F;www.meziantou.net&#x2F;generate-and-review-the-public-api-of-a-dotnet-library.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Limit what NuGet packages can do in your project](https:&#x2F;&#x2F;www.meziantou.net&#x2F;limit-what-nuget-packages-can-do-in-your-project.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Snapshot testing in .NET with Meziantou.Framework.SnapshotTesting](https:&#x2F;&#x2F;www.meziantou.net&#x2F;snapshot-testing-in-dotnet-with-meziantou-framework-snapshottesting.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Adding a Clone method to a C# record](https:&#x2F;&#x2F;www.meziantou.net&#x2F;adding-a-clone-method-to-a-csharp-record.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [New lines are more than \r and \n](https:&#x2F;&#x2F;www.meziantou.net&#x2F;new-lines-are-more-than-r-and-n.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [New features and Roslyn analyzers for Meziantou.Framework.FullPath](https:&#x2F;&#x2F;www.meziantou.net&#x2F;new-features-and-roslyn-analyzers-for-meziantou-framework-fullpath.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Blazor - How to set a base component for all Razor components](https:&#x2F;&#x2F;www.meziantou.net&#x2F;blazor-how-to-set-a-base-component-for-all-razor-components-using-viewstart-razo.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Propagating OpenTelemetry context in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;propagating-opentelemetry-context-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
