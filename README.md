@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [.NET 11 runtime async: the runtime takes over await](https:&#x2F;&#x2F;www.meziantou.net&#x2F;dotnet-11-runtime-async-the-runtime-takes-over-await.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Adding JsonPath support to custom object models in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;adding-jsonpath-support-to-custom-object-models-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Using JsonPath with System.Text.Json to query JSON in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;using-jsonpath-with-system-text-json-to-query-json-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Querying Roslyn syntax trees with XPath](https:&#x2F;&#x2F;www.meziantou.net&#x2F;querying-roslyn-syntax-trees-with-xpath.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Limit what NuGet packages can do in your project](https:&#x2F;&#x2F;www.meziantou.net&#x2F;limit-what-nuget-packages-can-do-in-your-project.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Snapshot testing in .NET with Meziantou.Framework.SnapshotTesting](https:&#x2F;&#x2F;www.meziantou.net&#x2F;snapshot-testing-in-dotnet-with-meziantou-framework-snapshottesting.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Adding a Clone method to a C# record](https:&#x2F;&#x2F;www.meziantou.net&#x2F;adding-a-clone-method-to-a-csharp-record.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Get a Unicode character name from a Rune in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;get-a-unicode-character-name-from-a-rune-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
