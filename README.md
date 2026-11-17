@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Analyzing a .NET crash dump with an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;analyzing-a-dotnet-crash-dump-with-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Speed up CI builds with Meziantou.DeltaBuild](https:&#x2F;&#x2F;www.meziantou.net&#x2F;speed-up-ci-builds-with-meziantou-deltabuild.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Sync vs Async File I&#x2F;O in .NET: Raw Throughput, Scalability, and Buffer Size](https:&#x2F;&#x2F;www.meziantou.net&#x2F;sync-vs-async-file-i-o-in-dotnet-raw-throughput-scalability-and-buffer-size.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Migrating to runtime async](https:&#x2F;&#x2F;www.meziantou.net&#x2F;migrating-to-runtime-async.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Using JsonPath with System.Text.Json to query JSON in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;using-jsonpath-with-system-text-json-to-query-json-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Querying Roslyn syntax trees with XPath](https:&#x2F;&#x2F;www.meziantou.net&#x2F;querying-roslyn-syntax-trees-with-xpath.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [XPath for custom types in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;xpath-for-custom-types-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Run temporary containers in .NET tests with Meziantou.Framework.TemporaryContainers](https:&#x2F;&#x2F;www.meziantou.net&#x2F;run-temporary-containers-in-dotnet-tests-with-meziantou-framework-temporaryconta.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
