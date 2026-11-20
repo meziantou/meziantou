@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Diagnosing thread pool starvation from a .NET dump with an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;diagnosing-thread-pool-starvation-from-a-dotnet-dump-with-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Finding an async deadlock caused by a SynchronizationContext with an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;finding-an-async-deadlock-caused-by-a-synchronizationcontext-with-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Finding a deadlock in a .NET dump with an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;finding-a-deadlock-in-a-dotnet-dump-with-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Analyzing a .NET crash dump with an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;analyzing-a-dotnet-crash-dump-with-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Runtime async benchmarks: .NET 10 vs .NET 11](https:&#x2F;&#x2F;www.meziantou.net&#x2F;runtime-async-benchmarks-dotnet-10-vs-dotnet-11.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [.NET 11 runtime async: the runtime takes over await](https:&#x2F;&#x2F;www.meziantou.net&#x2F;dotnet-11-runtime-async-the-runtime-takes-over-await.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Adding JsonPath support to custom object models in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;adding-jsonpath-support-to-custom-object-models-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Using JsonPath with System.Text.Json to query JSON in .NET](https:&#x2F;&#x2F;www.meziantou.net&#x2F;using-jsonpath-with-system-text-json-to-query-json-in-dotnet.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
