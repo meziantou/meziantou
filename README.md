@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Debugging a running .NET application with WinDbg and an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;debugging-a-running-dotnet-application-with-windbg-and-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Finding a leak rooted by an event handler or a timer with an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;finding-a-leak-rooted-by-an-event-handler-or-a-timer-with-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Finding a memory leak in a .NET dump with an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;finding-a-memory-leak-in-a-dotnet-dump-with-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Diagnosing thread pool starvation from a .NET dump with an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;diagnosing-thread-pool-starvation-from-a-dotnet-dump-with-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Speed up CI builds with Meziantou.DeltaBuild](https:&#x2F;&#x2F;www.meziantou.net&#x2F;speed-up-ci-builds-with-meziantou-deltabuild.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Sync vs Async File I&#x2F;O in .NET: Raw Throughput, Scalability, and Buffer Size](https:&#x2F;&#x2F;www.meziantou.net&#x2F;sync-vs-async-file-i-o-in-dotnet-raw-throughput-scalability-and-buffer-size.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Migrating to runtime async](https:&#x2F;&#x2F;www.meziantou.net&#x2F;migrating-to-runtime-async.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Runtime async benchmarks: .NET 10 vs .NET 11](https:&#x2F;&#x2F;www.meziantou.net&#x2F;runtime-async-benchmarks-dotnet-10-vs-dotnet-11.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
