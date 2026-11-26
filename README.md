@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Diagnosing latency under load from Aspire metrics with an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;diagnosing-latency-under-load-from-aspire-metrics-with-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Following a slow request across services with Aspire and an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;following-a-slow-request-across-services-with-aspire-and-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Finding slow requests with Aspire and an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;finding-slow-requests-with-aspire-and-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Debugging a running .NET application with WinDbg and an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;debugging-a-running-dotnet-application-with-windbg-and-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Finding an async deadlock caused by a SynchronizationContext with an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;finding-an-async-deadlock-caused-by-a-synchronizationcontext-with-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Finding a deadlock in a .NET dump with an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;finding-a-deadlock-in-a-dotnet-dump-with-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Analyzing a .NET crash dump with an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;analyzing-a-dotnet-crash-dump-with-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Speed up CI builds with Meziantou.DeltaBuild](https:&#x2F;&#x2F;www.meziantou.net&#x2F;speed-up-ci-builds-with-meziantou-deltabuild.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
