@@ -13,6 +13,7 @@ In addition to my professional work, I'm highly involved in the tech community. 
 #### 📗 Recent blog posts
 
 <!--START_SECTION:feed-->
+* [Running tests on a Windows machine over SSH with an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;running-tests-on-a-windows-machine-over-ssh-with-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Adding custom OpenTelemetry spans so an AI agent can see inside a request](https:&#x2F;&#x2F;www.meziantou.net&#x2F;adding-custom-opentelemetry-spans-so-an-ai-agent-can-see-inside-a-request.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Diagnosing latency under load from Aspire metrics with an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;diagnosing-latency-under-load-from-aspire-metrics-with-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Following a slow request across services with Aspire and an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;following-a-slow-request-across-services-with-aspire-and-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
@@ -22,7 +23,6 @@ In addition to my professional work, I'm highly involved in the tech community. 
 * [Finding a memory leak in a .NET dump with an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;finding-a-memory-leak-in-a-dotnet-dump-with-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Diagnosing thread pool starvation from a .NET dump with an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;diagnosing-thread-pool-starvation-from-a-dotnet-dump-with-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 * [Finding an async deadlock caused by a SynchronizationContext with an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;finding-an-async-deadlock-caused-by-a-synchronizationcontext-with-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
-* [Finding a deadlock in a .NET dump with an AI agent](https:&#x2F;&#x2F;www.meziantou.net&#x2F;finding-a-deadlock-in-a-dotnet-dump-with-an-ai-agent.htm?utm_medium&#x3D;social&amp;utm_source&#x3D;syndication)
 <!--END_SECTION:feed-->
 
 [Checkout out my complete list of blog entries!](https://www.meziantou.net/archives.htm)
